@@ -11,4 +11,4 @@ class Solution:
                 if target == num1 + num2:
                     return [idx1, idx2 + idx1 + 1]
         else:
-            raise Exception('Indices were not found!')
+            raise Exception('Indices not found!')

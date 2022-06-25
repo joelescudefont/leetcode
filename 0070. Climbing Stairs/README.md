@@ -19,16 +19,10 @@ Explanation: 1 step plus 1 step and 2 steps
 
 # Solutions
 
-**Recursive Depth-First Search**
-Time complexity: `O(2^n)`. 
-Space complexity: `O(1)`.
+| Solution                                        | Time complexity | Space complexity |
+|-------------------------------------------------|-----------------|------------------|
+| **Recursive Depth-First Search**                | `O(2^n)`        | `O(1)`           |
+| **Recursive Depth-First Search with a Hashmap** | `O(n)`          | `O(n)`           |
+| **Fibonacci series**                            | `O(n)`          | `O(1)`           |
 
 `2^n` is the height of a tree.
-
-**Recursive Depth-First Search using a Hashmap**
-Time complexity: `O(n)`.
-Space complexity: `O(n)`.
-
-**Fibonacci series**
-Time complexity: `O(n)`.
-Space complexity: `O(1)`.

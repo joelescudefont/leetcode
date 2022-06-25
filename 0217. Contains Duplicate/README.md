@@ -18,18 +18,9 @@ Output: False
 
 # Solutions
 
-**Brute Force**
-Time complexity: `O(n^2)`.
-Space complexity: `O(1)`.
-
-**Sort**
-Time complexity: `O(nlogn)`.
-Space complexity: `O(n)` or `O(1)` if optimized.
-
-**HashSet**
-Time complexity: `O(n)`.
-Space complexity: `O(n)`.
-
-**Lengths**
-Time complexity: `O(1)`.
-Space complexity: `O(1)`.
+| Solution            | Time complexity  | Space complexity              |
+|---------------------|------------------|-------------------------------|
+| **Brute Force**     | `O(n^2)`         | `O(1)`                        |
+| **Sort**            | `O(nlogn)`       | `O(n)` or `O(1)` if optimized |
+| **HashSet**         | `O(n)`           | `O(n)`                        |
+| **Lengths**         | `O(1)`           | `O(1)`                        |

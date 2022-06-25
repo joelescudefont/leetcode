@@ -24,7 +24,7 @@ Output: []
 
 # Solutions
 
-| Solution          | Time complexity | Space complexity |
-|-------------------|-----------------|------------------|
-| **DFS Recursive** | `O(n)`          | `O(1)`           |
+| Solution                           | Time complexity | Space complexity |
+|------------------------------------|-----------------|------------------|
+| **Recursive Depth-First Search**   | `O(n)`          | `O(1)`           |
 

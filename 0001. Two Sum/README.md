@@ -17,10 +17,7 @@ Output: [0, 1]
 
 # Solutions
 
-**Brute Force**
-Time complexity: `O(n²)`.
-Space complexity: `O(1)`.
-
-**HashMap**
-Time complexity: `O(n)`.
-Space complexity: `O(n)`.
+| Solution         | Time complexity | Space complexity |
+|------------------|-----------------|------------------|
+| **Brute Force**  | `O(n²)`         | `O(1)`           |
+| **HashMap**      | `O(n)`          | `O(n)`           |

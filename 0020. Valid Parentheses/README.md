@@ -28,6 +28,7 @@ Output: False
 
 # Solutions
 
-**Stack**
-Time complexity: `O(n)`.
-Space complexity: `O(n)`.
+| Solution    | Time complexity | Space complexity |
+|-------------|-----------------|------------------|
+| **Stack**   | `O(n)`          | `O(n)`           |
+

@@ -16,12 +16,15 @@ Output: 2
          4
 ```
 
-Input: `root = []`. Output: `0`.
+```
+Input: root = []
+Output: 0
+```
 
 
 # Solutions
 
-**Recursive Depth-First Search**
-Time complexity: `O(n)`.
-Space complexity: `O(1)`.
+| Solution                         | Time complexity | Space complexity |
+|----------------------------------|-----------------|------------------|
+| **Recursive Depth-First Search** | `O(n)`          | `O(1)`           |
 

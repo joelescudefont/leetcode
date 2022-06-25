@@ -1,7 +1,7 @@
 class Solution:
     def climbing_stairs(self, n: int) -> int:
         """
-        Find how many distinct ways you can climb to the top of the stair.
+        Find how many distinct ways you can climb to the top of a stair.
         """
         prev = 1
         res = 2

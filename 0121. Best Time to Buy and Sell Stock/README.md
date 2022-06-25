@@ -18,14 +18,8 @@ Output: 0
 
 # Solutions
 
-**Brute Force**
-Time complexity: `O(n²)`.
-Space complexity: `O(1)`.
-
-**Min Max**
-Time complexity: `O(n)`.
-Space complexity: `O(1)`.
-
-**Pointers**
-Time complexity: `O(n)`.
-Space complexity: `O(1)`.
+| Solution          | Time complexity | Space complexity |
+|-------------------|-----------------|------------------|
+| **Brute Force**   | `O(n²)`         | `O(1)`           |
+| **Min Max**       | `O(n)`          | `O(1)`           |
+| **Pointers**      | `O(n)`          | `O(1)`           |

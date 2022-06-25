@@ -1,6 +1,5 @@
 from typing import Optional
 
-
 from utils import ListNode
 
 

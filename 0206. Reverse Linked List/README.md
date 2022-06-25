@@ -13,6 +13,8 @@ Output: [4, 3, 2, 1]
 
 # Solutions
 
-**Iterative**
-Time complexity: `O(n)`.
-Space complexity: `O(1)`.
+| Solution      | Time complexity | Space complexity |
+|---------------|-----------------|------------------|
+| **Iterative** | `O(n)`          | `O(1)`           |
+| **Recursive** | `O(n)`          | `O(1)`           |
+

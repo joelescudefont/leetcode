@@ -23,7 +23,8 @@ Output: False
 
 # Solutions
 
-| Solution    | Time complexity | Space complexity |
-|-------------|-----------------|------------------|
-| **Hashset** | `O(n)`          | `O(n)`           |
-| **Type**    | `O(n)`          | `O(1)`           |
+| Solution      | Time complexity | Space complexity |
+|---------------|-----------------|------------------|
+| **Hashset**   | `O(n)`          | `O(n)`           |
+| **Type**      | `O(n)`          | `O(1)`           |
+| **Slow Fast** | `O(n)`          | `O(1)`           |

@@ -31,9 +31,10 @@ Output: 2
 
 # Solutions
 
-| Solution                         | Time complexity | Space complexity |
-|----------------------------------|-----------------|------------------|
-| **Recursive Depth-First Search** | `O(logn)`       | `O(1)`           |
+| Solution       | Time complexity | Space complexity |
+|----------------|-----------------|------------------|
+| **Recursive**  | `O(logn)`       | `O(1)`           |
+| **Iterative**  | `O(logn)`       | `O(1)`           |
 
 `logn` is the height of the tree approx
 

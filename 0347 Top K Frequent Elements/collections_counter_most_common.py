@@ -5,8 +5,8 @@ import pytest
 
 
 class Solution:
-    @staticmethod
     # Find the top most frequent elements
+    @staticmethod
     def find_top_k_frequent_elements(nums: List[int], k: int) -> List[int]:
         return [elem for elem, _ in Counter(nums).most_common(k)]
 

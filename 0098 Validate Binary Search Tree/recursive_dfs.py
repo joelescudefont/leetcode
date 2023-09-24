@@ -82,7 +82,7 @@ from utils import TreeNode as Node
 class Solution:
     def validate_tree(self, root: Optional[Node]) -> bool:
         return self.validate_node(float("-inf"), root.left, root.val) \
-            and self.validate_node(root.val, root.right, float("inf"))
+            and self.validate_node(root.val, root.right, float("+inf"))
 
     def validate_node(self, left_boundary: float, root: Optional[Node], right_boundary: float) -> bool:
         if not root:

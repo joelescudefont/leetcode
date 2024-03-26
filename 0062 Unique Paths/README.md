@@ -9,3 +9,7 @@ Recursion with backtracking
 Recursion with backtracking and a counter
 - Time complexity: `O(2^(M + N))`
 - Space complexity: `O(max(M, N))`
+
+Recursion with backtracking and a counter
+- Time complexity: `O(MN)`
+- Space complexity: `O(MN)`

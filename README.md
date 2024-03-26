@@ -1,3 +1,3 @@
 # Leetcode
 
-*"I got 0 ms runtime." - Sun Tzu*
+*"Embrace the 'OOPs' moments! "* - Sun Tzu, a quote that he never said

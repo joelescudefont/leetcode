@@ -14,6 +14,10 @@ Recursion with backtracking and a counter
 - Time complexity: `O(MN)`
 - Space complexity: `O(MN)`
 
+Dynamic programming with a 2D array
+- Time complexity: `O(MN)`
+- Space complexity: `O(MN)`
+- 
 Dynamic programming with a 2D array using breath-first search
 - Time complexity: `O(MN)`
 - Space complexity: `O(MN)`

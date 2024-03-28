@@ -17,14 +17,14 @@ class Solution:
 
         self.bfs()  # traverse with breath-first search
 
-        return self.grid[self.m - 1][self.n - 1]
+        return self.grid[self.m - 1][self.n - 1]  # bottom right
 
     def bfs(self) -> None:
         while self.queue:
             cell = self.queue.popleft()
 
             if cell not in self.seen:
-                self.seen.add(cell)  # save visited tile
+                self.seen.add(cell)  # visited
 
                 i, j = cell
 

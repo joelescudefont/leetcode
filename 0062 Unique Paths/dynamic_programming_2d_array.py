@@ -6,10 +6,10 @@ class Solution:
         self.m: int = m
         self.n: int = n
 
-        self.grid: List[List[int]] = [[0] * n for _ in range(m)]
+        self.grid: List[List[int]] = [[0] * n for _ in range(m)]  # 2D array
 
     def count_unique_paths(self):
-        self.dp()  # dynamic programming
+        self.dp()  # top-down dynamic programming
 
         return self.grid[self.m - 1][self.n - 1]  # bottom right
 

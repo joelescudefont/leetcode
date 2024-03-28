@@ -21,3 +21,7 @@ Dynamic programming with a 2D array
 Iterative breath-first search
 - Time complexity: `O(MN)`
 - Space complexity: `O(MN)`
+
+Dynamic programming with a 1D array
+- Time complexity: `O(MN)`
+- Space complexity: `O(N)`

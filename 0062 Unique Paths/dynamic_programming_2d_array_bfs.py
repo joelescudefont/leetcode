@@ -13,7 +13,7 @@ class Solution:
         self.seen: Set = set()
 
     def count_unique_paths(self) -> int:
-        self.grid[0][0] += 1  # top left
+        self.grid[0][0] = 1  # top left
 
         self.bfs()  # traverse with breath-first search
 
@@ -21,12 +21,12 @@ class Solution:
 
     def bfs(self) -> None:
         while self.queue:
-            tile = self.queue.popleft()
+            cell = self.queue.popleft()
 
-            if tile not in self.seen:
-                self.seen.add(tile)  # save visited tile
+            if cell not in self.seen:
+                self.seen.add(cell)  # save visited tile
 
-                i, j = tile
+                i, j = cell
 
                 if i + 1 < self.m:
                     self.grid[i + 1][j] += self.grid[i][j]  # update down

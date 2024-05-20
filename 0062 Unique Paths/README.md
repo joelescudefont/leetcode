@@ -25,3 +25,7 @@ Dynamic programming with a 2D array
 Dynamic programming with a 1D array
 - Time complexity: `O(MN)`
 - Space complexity: `O(N)`
+
+Combinatorial approach
+- Time complexity: `O(M + N)`
+- Space complexity: `O(1)`

@@ -10,7 +10,7 @@ Recursive with backtracking and a counter
 - Time complexity: `O(2^(M + N))`
 - Space complexity: `O(max(M, N))`
 
-Recursion with backtracking and memoization
+Recursive with backtracking and memoization
 - Time complexity: `O(MN)`
 - Space complexity: `O(MN)`
 

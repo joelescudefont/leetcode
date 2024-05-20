@@ -2,15 +2,15 @@
 
 https://leetcode.com/problems/unique-paths/
 
-Recursion with backtracking
+Recursive with backtracking
 - Time complexity: `O(2^(M + N))`
 - Space complexity: `O(max(M, N))`
 
-Recursion with backtracking and a counter
+Recursive with backtracking and a counter
 - Time complexity: `O(2^(M + N))`
 - Space complexity: `O(max(M, N))`
 
-Recursion with backtracking and a counter
+Recursion with backtracking and memoization
 - Time complexity: `O(MN)`
 - Space complexity: `O(MN)`
 

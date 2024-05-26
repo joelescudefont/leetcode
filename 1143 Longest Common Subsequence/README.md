@@ -9,3 +9,7 @@ Brute force
 Recursive
 - Time complexity: `O(2^(N + M))`
 - Space complexity: `O(N + M)`
+
+Recursive with memoization, top-down dynamic programming
+- Time complexity: `O(NM)`
+- Space complexity: `O(NM)`

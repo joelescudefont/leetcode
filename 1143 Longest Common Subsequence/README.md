@@ -13,3 +13,7 @@ Recursive
 Recursive with memoization, top-down dynamic programming
 - Time complexity: `O(NM)`
 - Space complexity: `O(NM)`
+
+Dynamic programming with a 2D table
+- Time complexity: `O(NM)`
+- Space complexity: `O(NM)`
